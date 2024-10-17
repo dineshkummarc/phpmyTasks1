@@ -1,5 +1,6 @@
 <p align="center"><img align="center" src="https://i.imgur.com/CXIG1sI.png"></p>
 
+# phpmyTasks1
 # Tasks [![StyleCI Badge](https://styleci.io/repos/74145671/shield?style=flat-square&branch=master)](https://styleci.io/repos/74145671/)
 Simple tasks & notes manager written in PHP, jQuery and Bootstrap using a custom flat file database.
 
